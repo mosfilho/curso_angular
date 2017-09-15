@@ -7,3 +7,5 @@ sudo apt-get install npm
 sudo npm install -g typescript
 #install @angular/cli
 sudo npm install -g @angular/cli
+# rodar servidor: $ ng serve
+# criar componente: $ ng g c <nome_do_component>
